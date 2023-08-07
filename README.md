@@ -4,7 +4,7 @@ This is a web-based project developed using Java, JDBC, Servlets, and MySQL on t
 
 
 
-##USE CASE
+## USE CASE
 
 
 User [Actor]
@@ -35,7 +35,7 @@ Healthcare Provider --> See Patient Reviews
 
 
 
-##ER DIAGRAM 
+## ER DIAGRAM 
 
 ENTITY: Patient
 Attributes:
